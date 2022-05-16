@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://diegocantarell.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://diegocantarell.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Previo a Node JS</title>
+      <link>https://diegocantarell.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://diegocantarell.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Previo a Node JS, se vieron temas previos de suma importancia para el desarrollo web, tales como: -HTML -CSS -JavaScript -Vue -Despliegue página web en Azure usando GitHub Actions</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://diegocantarell.github.io/my_launchx_blog/pages/about/</link>
