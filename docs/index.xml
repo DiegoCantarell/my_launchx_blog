@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://diegocantarell.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 10:50:21 -0600</lastBuildDate><atom:link href="https://diegocantarell.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura de un desarrollador de Software</title>
+      <link>https://diegocantarell.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 16 May 2022 10:50:21 -0600</pubDate>
+      
+      <guid>https://diegocantarell.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Hola
+Para mi la cultura de un desarrollador de software está compuesta de:
+-Respeto -Confianza -Honestidad -Dedicaciíon -Responsabilidad -Tolerancia a errores -Siempre estar en constante aprendizaje</description>
+    </item>
+    
     <item>
       <title>Previo a Node JS</title>
       <link>https://diegocantarell.github.io/my_launchx_blog/posts/post_1/</link>
