@@ -7,4 +7,11 @@ Hola ✌️  soy  ** Diego Cantarell ** y este es mi blog personal donde compart
 
 Te invito a conocer mis nuevos conocimientos y leer mis experiencias.
 
+Mis expectativas son:
+-Aprender más sobre Backend
+-Aplicar mus conocimientos de Front-end
+-Aprender más sobre diseño backend
+-Compartir ;)
+
+
 🚀
