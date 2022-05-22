@@ -8,10 +8,17 @@ Hola
 
 Para mi la cultura de un desarrollador de software está compuesta de:
 
--Respeto
--Confianza
--Honestidad
--Dedicaciíon
--Responsabilidad
--Tolerancia a errores
--Siempre estar en constante aprendizaje
+-Respeto.
+
+-Confianza.
+
+-Honestidad.
+
+-Dedicaciíon.
+
+-Responsabilidad.
+
+-Tolerancia a errores.
+
+-Siempre estar en constante aprendizaje.
+
