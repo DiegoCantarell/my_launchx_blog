@@ -6,7 +6,7 @@ https://diegocantarell.github.io/my_launchx_blog/
 
 ## My Launch X Blog: Bitácora de Viaje 🚀
 
-Hola explorer 👋 
+
 
 Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
 
